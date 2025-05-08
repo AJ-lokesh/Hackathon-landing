@@ -1,0 +1,25 @@
+.heading{
+    color: rgb(216, 5, 5);
+    text-align: center;
+}
+.Details p{
+    
+    color: rgb(51, 22, 72);
+    text-align: left;
+}
+
+
+.desp{
+    color:rgb(100, 27, 27);
+    text-align: left;
+    padding-left: 30px;
+    padding-right: 50px;
+    padding-bottom: 10px;
+}
+body{
+    background-color: rgb(201, 184, 184);
+    opacity: 1.5;
+}
+li{
+    list-style: none;
+}
