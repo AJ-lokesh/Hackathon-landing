@@ -1,3 +1,6 @@
+*{
+    background-color:rgb(255, 255, 255) ;
+}
 .heading{
     color: rgb(216, 5, 5);
     text-align: center;
@@ -7,8 +10,11 @@
     color: rgb(51, 22, 72);
     text-align: left;
 }
-
-
+.flexi-containers{
+    display: flex;
+    flex-wrap:wrap-reverse;
+    background-color: aquamarine;
+}
 .desp{
     color:rgb(100, 27, 27);
     text-align: left;
@@ -17,9 +23,6 @@
     padding-bottom: 10px;
 }
 body{
-    background-color: rgb(201, 184, 184);
-    opacity: 1.5;
-}
-li{
-    list-style: none;
+   
+    opacity: 2.5;
 }

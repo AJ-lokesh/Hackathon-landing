@@ -1,0 +1,97 @@
+body{
+background-image: url(https://media.istockphoto.com/id/1402546700/vector/pink-cat-seamless-pattern-meow-and-cat-paws-background-vector-illustration-cute-cartoon.jpg?s=612x612&w=0&k=20&c=lKW_CNB9XdhkUgX0hmQB-T-HFsseoBFj5di45eFH85c=);
+}
+h1{
+    text-align: center;
+    color:#05b091e6;
+    font-size: 40px;
+}
+.Main1{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+.Main1 > div{
+height: 210px;
+width: 180px;
+margin-top: 30px;
+margin-right: 30px;
+margin-bottom: 30px;
+   text-align: center;
+    background-color:#006f77;
+
+}
+.Main1 > div:hover{
+     background-color:#21a3ac;
+     transition: 250ms;
+}
+/* .Main1 div:nth-child(2) {
+   text-align: center;
+    background-color:#31bfc9;
+}
+.Main1 div:nth-child(2):hover{
+     background-color:#21a3ac;
+     transition: 250ms;
+}
+.Main1 div:nth-child(3) {
+   text-align: center;
+     background-color:#31bfc9;
+}
+.Main1 div:nth-child(3):hover{
+     background-color:#21a3ac;
+     transition: 250ms;
+}
+.Main1 div:nth-child(4) {
+   text-align: center;
+    background-color:#31bfc9;
+}
+.Main1 div:nth-child(4):hover{
+     background-color:#21a3ac;
+     transition: 250ms;
+} */
+.Main2{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.Main2 > div{
+    height: 210px;
+    width: 180px;
+    margin-top: 30px;
+    margin-right: 30px;
+    margin-bottom: 30px;
+    background-color: #21a3ac;
+}
+.Main2 div:nth-child(1) {
+   text-align: center;
+    background-color:#31bfc9;
+}
+.Main2 div:nth-child(1):hover{
+     background-color:#21a3ac;
+     transition: 250ms;
+}
+.Main2 div:nth-child(2) {
+   text-align: center;
+    background-color:#31bfc9;
+}
+.Main2 div:nth-child(2):hover{
+     background-color:#21a3ac;
+     transition: 250ms;
+}
+.Main2 div:nth-child(3) {
+   text-align: center;
+    background-color:#31bfc9;
+}
+.Main2 div:nth-child(3):hover{
+     background-color:#21a3ac;
+     transition: 250ms;
+}
+.Main2 div:nth-child(4) {
+   text-align: center;
+    background-color:#31bfc9;
+}
+.Main2 div:nth-child(4):hover{
+     background-color:#21a3ac;
+     transition: 250ms;
+}

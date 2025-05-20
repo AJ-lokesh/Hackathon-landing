@@ -1,0 +1,74 @@
+
+h1{
+    text-align: center;
+}
+
+
+/* .This{
+    width: 100px;
+    height: 100px;
+    background-color: aquamarine;
+    padding-left: 100px;
+    margin-bottom: 100px;
+    border-radius: 10px;
+    box-sizing: border-box;
+    position: relative;
+    top: 20px;
+    left: 30px;
+
+}
+.Posistion-1{
+    height: 100px;
+    width: 100px;
+    position: relative;
+    left: 40px;
+    background-color: rgb(203, 29, 29);
+    margin-bottom: 50px;
+}
+.Posistion-2{
+    height: 20px;
+    width: 20px;
+    background-color: rgb(4, 4, 4);
+    position: fixed;
+    margin-left: 20px;
+   top: 20px;
+   right: 0px;
+   
+}
+button{
+    padding: 20px 30px;
+    background-color: yellow;
+    border: none;
+    font-size:medium;
+    color: blue;
+    transition: all 500ms 1s;
+}
+button:hover{
+    background-color: red;
+    color: white;
+} */
+
+
+ .parent > div{
+    height: 100px;
+    width: 100px;
+    background-color: brown;
+    margin-bottom: 10px;
+ }
+ .parent div:first-child{
+    background-color: violet;
+    height: 200px;
+    width: 200px;
+ }
+
+ .parent div:nth-child(3){
+    background-color: rgb(63, 118, 202);
+    position: relative;
+    left: 30px;
+ } 
+ .parent div:nth-child(4){
+    background-color: blueviolet;
+    position:fixed;
+    left: 60px;
+
+ }

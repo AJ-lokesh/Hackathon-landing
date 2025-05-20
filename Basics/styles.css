@@ -1,0 +1,16 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    background-color: cadetblue;
+}
+body{
+    background-color: aquamarine;
+}
+.Main1{
+    text-align: center;
+}
+.Main1 h1,p{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
